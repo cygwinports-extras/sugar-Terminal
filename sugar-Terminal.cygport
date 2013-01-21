@@ -1,0 +1,8 @@
+NAME="sugar-Terminal"
+VERSION=41
+RELEASE=1
+SUGAR_TYPE="fructose"
+inherit sugar
+
+
+REQUIRES="girepository-Vte2.90"
